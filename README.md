@@ -17,8 +17,3 @@ Rust: Systems programming language known for performance, reliability, and safet
 Tokio: Asynchronous runtime for Rust, enabling fast and efficient I/O operations.
 Libp2p: Peer-to-peer networking library for building decentralized applications.
 
-## Future Work:
-
-Extended Blockchain Support: Expanding the scope to support various blockchain platforms.
-Improved Fault Tolerance: Enhancing the retry mechanisms with adaptive algorithms.
-Post-Quantum Security: Exploring security enhancements to ensure the system is resilient to quantum computing threats.
