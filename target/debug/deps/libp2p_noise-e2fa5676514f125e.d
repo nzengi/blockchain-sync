@@ -1,0 +1,15 @@
+/Users/zengi/Desktop/blockchain-sync/target/debug/deps/liblibp2p_noise-e2fa5676514f125e.rmeta: /Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-noise-0.35.0/src/lib.rs /Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-noise-0.35.0/src/error.rs /Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-noise-0.35.0/src/io.rs /Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-noise-0.35.0/src/io/framed.rs /Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-noise-0.35.0/src/io/handshake.rs /Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-noise-0.35.0/src/protocol.rs /Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-noise-0.35.0/src/protocol/x25519.rs /Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-noise-0.35.0/src/protocol/x25519_spec.rs /Users/zengi/Desktop/blockchain-sync/target/debug/build/libp2p-noise-bb0336aebe57d848/out/payload.proto.rs
+
+/Users/zengi/Desktop/blockchain-sync/target/debug/deps/libp2p_noise-e2fa5676514f125e.d: /Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-noise-0.35.0/src/lib.rs /Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-noise-0.35.0/src/error.rs /Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-noise-0.35.0/src/io.rs /Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-noise-0.35.0/src/io/framed.rs /Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-noise-0.35.0/src/io/handshake.rs /Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-noise-0.35.0/src/protocol.rs /Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-noise-0.35.0/src/protocol/x25519.rs /Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-noise-0.35.0/src/protocol/x25519_spec.rs /Users/zengi/Desktop/blockchain-sync/target/debug/build/libp2p-noise-bb0336aebe57d848/out/payload.proto.rs
+
+/Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-noise-0.35.0/src/lib.rs:
+/Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-noise-0.35.0/src/error.rs:
+/Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-noise-0.35.0/src/io.rs:
+/Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-noise-0.35.0/src/io/framed.rs:
+/Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-noise-0.35.0/src/io/handshake.rs:
+/Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-noise-0.35.0/src/protocol.rs:
+/Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-noise-0.35.0/src/protocol/x25519.rs:
+/Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libp2p-noise-0.35.0/src/protocol/x25519_spec.rs:
+/Users/zengi/Desktop/blockchain-sync/target/debug/build/libp2p-noise-bb0336aebe57d848/out/payload.proto.rs:
+
+# env-dep:OUT_DIR=/Users/zengi/Desktop/blockchain-sync/target/debug/build/libp2p-noise-bb0336aebe57d848/out

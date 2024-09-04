@@ -1,0 +1,13 @@
+/Users/zengi/Desktop/blockchain-sync/target/debug/deps/liblog-302d81e679dd5318.rmeta: /Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/lib.rs /Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/macros.rs /Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/serde.rs /Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/mod.rs /Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/error.rs /Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/key.rs /Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/source.rs /Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/value.rs /Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/__private_api.rs
+
+/Users/zengi/Desktop/blockchain-sync/target/debug/deps/log-302d81e679dd5318.d: /Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/lib.rs /Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/macros.rs /Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/serde.rs /Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/mod.rs /Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/error.rs /Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/key.rs /Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/source.rs /Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/value.rs /Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/__private_api.rs
+
+/Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/lib.rs:
+/Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/macros.rs:
+/Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/serde.rs:
+/Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/mod.rs:
+/Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/error.rs:
+/Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/key.rs:
+/Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/source.rs:
+/Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/value.rs:
+/Users/zengi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/__private_api.rs:
